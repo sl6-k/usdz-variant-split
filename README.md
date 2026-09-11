@@ -39,9 +39,9 @@ python3 split_usdz.py model.usdz -o result
 
 ```text
 result/
-  01_model_black.usdz     # 完整黑色手机
-  02_model_blue.usdz      # 完整蓝色手机
-  03_model_red.usdz       # 完整红色手机
+  01_model_black.usdz     # 完整黑色模型
+  02_model_blue.usdz      # 完整蓝色模型
+  03_model_red.usdz       # 完整红色模型
   manifest.json          # 来源、版本、选项与文件对应关系
 ```
 
